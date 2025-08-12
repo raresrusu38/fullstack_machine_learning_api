@@ -12,7 +12,6 @@ class StudentSerializer(serializers.ModelSerializer):
 
 
 
-
 class EmployeeSerializer(serializers.ModelSerializer):
 
     class Meta:
